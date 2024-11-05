@@ -24,14 +24,7 @@
 
 ###
 
-<h4 align="left">Knowledge about:</h4>
-
-###
-
-
-###
-
-<h4 align="left">Languages + Tools know:</h4>
+<h4 align="left">Languages and Tools:</h4>
 
 ###
 
