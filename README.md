@@ -5,7 +5,7 @@
 
 - 🎓 [CESI](https://cesi.fr) <br><br>
 - 💿 Currently learning PHP<br><br>
-- 📃 How to reach me : darkruss on discord or you can send me an email : bonsoir_la_vie@outlook.fr</p>
+- 📃 How to reach me : darkruss on discord
 
 ###
 
