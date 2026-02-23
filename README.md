@@ -4,7 +4,7 @@
 ###
 
 - 🎓 [CESI](https://cesi.fr) <br><br>
-- 💿 Currently learning PHP and native hooking in C++<br><br>
+- 💿 Currently learning Rust and native hooking in C++<br><br>
 - 📃 How to reach me : darkruss on discord
 
 ###
